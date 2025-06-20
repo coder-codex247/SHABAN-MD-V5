@@ -9,13 +9,13 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
-        "value":"",
+        "value":"SHABAN-MD~6UkDiCTB#uLAJvGWNoRXM6EeuhxGOxdXQvnMFQ8cVr8FySuJ4wz0",
         "required": true
         
       },
       "PREFIX": {
         "description": "Bot command prefix, (e.g, . , ! @ etc",
-        "value":".",
+        "value":"|",
         "required": true
         
       },
@@ -30,13 +30,13 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "|"
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -75,7 +75,7 @@
     "AUTO_STATUS_REACT": {
       "description": "Make it true for automatic status react & seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -94,7 +94,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "𝐌𝐫𝐬 𝐉𝐞𝐦"
 }, 
 
     "OWNER_NUMBER": {
@@ -107,7 +107,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "𝔍𝔢𝔪𝔷𝔦𝔢 𝔡𝔦𝔳𝔞"
 
       }, 
 
